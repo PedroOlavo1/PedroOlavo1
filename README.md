@@ -44,8 +44,8 @@ Atualmente estou focado em aprender e aplicar conceitos de **back-end**, **banco
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroolavo&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolavo&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroOlavo1&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOlavo1&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
