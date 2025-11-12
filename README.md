@@ -1,50 +1,72 @@
-# 👋 Olá, eu sou o Pedro Olavo!
+<!-- Pedro Olavo | Perfil GitHub -->
 
-🎓 Estudante de **Engenharia de Software na FIAP (1º semestre)**  
-⚙️ Desenvolvedor **Back-End em formação**  
-💡 Apaixonado por resolver problemas com **lógica, código limpo e automação**
+<h1 align="center">👋 Olá, eu sou o Pedro Olavo!</h1>
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante de Engenharia de Software e estou iniciando minha jornada no desenvolvimento **Back-End**, com foco em **Python**, **Java** e **Banco de Dados**.  
-Busco constantemente aprender novas tecnologias, entender boas práticas e aplicar o que aprendo em projetos reais — sempre com o objetivo de evoluir como desenvolvedor.
-
-Atualmente, estou:
-- 📚 Aprofundando meus conhecimentos em **estruturas de dados e orientação a objetos**  
-- 🧠 Praticando **lógica de programação e construção de APIs simples**  
-- 🔍 Explorando **MySQL, SQLite** e fundamentos de arquitetura de software  
-- 💪 Trabalhando em projetos acadêmicos e pessoais para fortalecer meu portfólio
+<p align="center">
+  🎓 Estudante de <strong>Engenharia de Software</strong> na FIAP (1º semestre)<br>
+  ⚙️ Foco em <strong>Desenvolvimento Back-End</strong> | Python • Java • SQL<br>
+  🚀 Buscando uma oportunidade de <strong>estágio em tecnologia</strong>
+</p>
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+### 🧠 Sobre mim
 
-- **Linguagens:** Python, Java, JavaScript, C#  
-- **Back-End:** APIs REST (conceito), automação, lógica de negócios  
-- **Banco de Dados:** MySQL, SQLite  
-- **Ferramentas:** Git, GitHub, VS Code, Linux básico, Figma  
-- **Outros:** Metodologias Ágeis (Scrum), versionamento de código, boas práticas de programação
+Sou um estudante de Engenharia de Software em formação, apaixonado por entender como as coisas funcionam por trás do código.  
+Atualmente estou focado em aprender e aplicar conceitos de **back-end**, **banco de dados**, **boas práticas de código** e **lógica de programação**.
 
----
+📚 O que estou estudando:
+- Estruturas de dados e algoritmos  
+- Orientação a objetos (Java e Python)  
+- Criação de APIs REST  
+- Modelagem e consultas SQL  
+- Git, GitHub e versionamento de código  
 
-## 🌱 O que busco
-
-> 🎯 Oportunidade de **estágio em desenvolvimento Back-End**  
-> 💻 Ambientes que valorizem **aprendizado contínuo e boas práticas de código**  
-> 🚀 Times colaborativos e projetos desafiadores que me ajudem a crescer
+💡 Meu objetivo é evoluir como desenvolvedor back-end e contribuir com projetos que gerem impacto real.
 
 ---
 
-## 📫 Como me encontrar
+### 🧰 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroolavo&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolavo&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🌱 O que busco
+
+> 🎯 Oportunidade de **estágio Back-End** para aplicar meus conhecimentos e aprender com profissionais experientes.  
+> 💻 Ambientes que valorizem **boas práticas de desenvolvimento** e **evolução constante**.  
+> 🚀 Projetos que desafiem minha lógica e ampliem minha visão técnica.
+
+---
+
+### 📫 Contato
 
 📍 São Paulo – SP  
-📧 **pedroolavo.tech@gmail.com**  
+📧 **pedroolavo@email.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-olavo-jung-da-silva-b23234349/) • [GitHub](https://github.com/PedroOlavo1)
 
 ---
 
-⭐ *“Construindo um futuro sólido em tecnologia.”*
-
+<p align="center">
+  ⭐ <em>"Construindo um futuro sólido em tecnologia."</em>
+</p>
 
